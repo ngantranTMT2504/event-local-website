@@ -31,25 +31,25 @@ Built with **ReactJS**, **FastAPI**, **PostgreSQL**, and
 
 ### Frontend
 
--   ReactJS\
--   TailwindCSS\
--   Axios\
+-   ReactJS
+-   TailwindCSS
+-   Axios
 -   React Router
 
 ### Backend
 
--   Python\
--   FastAPI\
--   SQLAlchemy\
+-   Python
+-   FastAPI
+-   SQLAlchemy
 -   PostgreSQL
 
 ------------------------------------------------------------------------
 
 ## 📁 Project Structure (Simplified)
 
-    event-local-website/
-    │── event-frontend/         # ReactJS frontend
-    │── event-backend/         # FastAPI backend
+    event-local-website
+    │── event-frontend       # ReactJS frontend
+    │── event-backend        # FastAPI backend
     │── README.md
     │── .gitignore
 
@@ -71,8 +71,8 @@ Feel free to open a PR or Issue.
 
 ## 📬 Contact
 
-- Author: **Tran Thi Kim Ngan**\
-- Portfolio: https://portfolio-ngan-tran.onrender.com\
+- Author: **Tran Thi Kim Ngan**
+- Portfolio: https://portfolio-ngan-tran.onrender.com
 - GitHub: https://github.com/ngantranTMT2504
 - LinkedIn: https://www.linkedin.com/in/kim-ngan-tran-465036301
 ------------------------------------------------------------------------

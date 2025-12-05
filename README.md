@@ -43,25 +43,6 @@ Built with **ReactJS**, **FastAPI**, **PostgreSQL**, and
 -   SQLAlchemy\
 -   PostgreSQL
 
-
-## 🔗 API Endpoints (Sample)
-
-### Events
-
-  Method   Endpoint       Description
-  -------- -------------- ------------------
-  GET      /events        Get all events
-  POST     /events        Create new event
-  GET      /events/{id}   Get event by ID
-  DELETE   /events/{id}   Delete event
-
-### Authentication
-
-  Method   Endpoint    Description
-  -------- ----------- ---------------
-  POST     /register   Register user
-  POST     /login      Login user
-
 ------------------------------------------------------------------------
 
 ## 📁 Project Structure (Simplified)
@@ -90,10 +71,10 @@ Feel free to open a PR or Issue.
 
 ## 📬 Contact
 
-Author: **Tran Thi Kim Ngan**\
-Portfolio: https://portfolio-ngan-tran.onrender.com\
-GitHub: https://github.com/ngantranTMT2504
-LinkedIn: https://www.linkedin.com/in/kim-ngan-tran-465036301
+- Author: **Tran Thi Kim Ngan**\
+- Portfolio: https://portfolio-ngan-tran.onrender.com\
+- GitHub: https://github.com/ngantranTMT2504
+- LinkedIn: https://www.linkedin.com/in/kim-ngan-tran-465036301
 ------------------------------------------------------------------------
 
 ## ⭐ If you like this project, give it a star on GitHub!

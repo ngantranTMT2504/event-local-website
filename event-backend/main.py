@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from database import engine, Base
-from routers import auth_router
+from routers import auth_router, event_router, admin_router
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 import os
@@ -25,6 +25,8 @@ app.add_middleware(
 )
 
 app.include_router(auth_router.router)
+app.include_router(event_router.router)
+app.include_router(admin_router.router)
 
 @app.get("/")
 def root():
